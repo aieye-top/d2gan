@@ -1,0 +1,25 @@
+
+Getting Started
+===============
+
+Please first install my favorite package ``torch``.
+
+.. code:: python
+
+    !pip install torch
+
+
+.. parsed-literal::
+    :class: output
+
+    Collecting torch
+      Downloading torch-1.7.1-cp38-cp38-manylinux1_x86_64.whl (776.8 MB)
+         |████████████████████████████████| 776.8 MB 521 bytes/s 
+    [?25hCollecting typing-extensions
+      Downloading typing_extensions-3.7.4.3-py3-none-any.whl (22 kB)
+    Collecting numpy
+      Downloading numpy-1.19.4-cp38-cp38-manylinux2010_x86_64.whl (14.5 MB)
+         |████████████████████████████████| 14.5 MB 17.9 MB/s 
+    [?25hInstalling collected packages: typing-extensions, numpy, torch
+    Successfully installed numpy-1.19.4 torch-1.7.1 typing-extensions-3.7.4.3
+
